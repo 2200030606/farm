@@ -10,7 +10,7 @@
     <groupId>com.klef.jfsd.farmtoglobal</groupId>
     <artifactId>FarmToGlobal</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>FarmToGlobal</name>
     <description>A Spring Boot application for FarmToGlobal project</description>
     <url/>
@@ -27,7 +27,7 @@
         <url/>
     </scm>
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
 		<dependency>

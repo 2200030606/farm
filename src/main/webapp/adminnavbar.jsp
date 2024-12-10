@@ -155,9 +155,10 @@
     <img src="images/logo.jpg" alt="Farm to Global Logo" class="navbar-logo">
     <ul class="navbar-links">
         <li><a href="/adminhome" class="active">Dashboard</a></li>
+        <li><a href="/adminviewproducts">Total Products</a></li>
         <li><a href="/viewallcustomers">Customers</a></li>
         <li><a href="/viewallfarmers">Farmers</a></li>
-        <li><a href="/adminviewproducts">Total Products</a></li>
+        
         <li><a href="/updateadminprofile">Update Profile</a></li>
         <li><a href="/adminlogin">Logout</a></li>
     </ul>
@@ -171,6 +172,7 @@
         <a href="/viewallfarmers">Farmers</a>
         <a href="/updateadminprofile">Update Profile</a>
         <a href="/adminlogin">Logout</a>
+        
     </div>
 </div>
 
